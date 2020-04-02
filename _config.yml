@@ -36,3 +36,10 @@ colors:
 kramdown:
   auto_ids:  false
 
+font-awesome:
+  assets: true
+
+gems:
+  - jekyll-font-awesome-sass
+
+

@@ -508,14 +508,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-video { border-color: #0fbfcf; }
-  #video { background-color: #0fbfcf !important; color: #f8f8f8; }
-  #video a { color: #f8f8f8; }
-  #video .sectiondivider { color: #0fbfcf; }
-
-  
-  
-  
   nav .p-agenda-eu { border-color: #c869bf; }
   #agenda-eu { background-color: #c869bf !important; color: #f8f8f8; }
   #agenda-eu a { color: #f8f8f8; }
