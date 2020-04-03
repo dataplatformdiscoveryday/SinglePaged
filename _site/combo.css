@@ -524,6 +524,14 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-registration { border-color: #49a7e9; }
+  #registration { background-color: #49a7e9 !important; color: #111111; }
+  #registration a { color: #111111; }
+  #registration .sectiondivider { color: #49a7e9; }
+
+  
+  
+  
   nav .p-speakers { border-color: #fab125; }
   #speakers { background-color: #fab125 !important; color: #111111; }
   #speakers a { color: #111111; }
