@@ -508,14 +508,6 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-agenda-eu { border-color: #c869bf; }
-  #agenda-eu { background-color: #c869bf !important; color: #f8f8f8; }
-  #agenda-eu a { color: #f8f8f8; }
-  #agenda-eu .sectiondivider { color: #c869bf; }
-
-  
-  
-  
   nav .p-agenda-us { border-color: #63BD2F; }
   #agenda-us { background-color: #63BD2F !important; color: #f8f8f8; }
   #agenda-us a { color: #f8f8f8; }
@@ -528,6 +520,14 @@ html { box-sizing: border-box; }
   #registration { background-color: #49a7e9 !important; color: #111111; }
   #registration a { color: #111111; }
   #registration .sectiondivider { color: #49a7e9; }
+
+  
+  
+  
+  nav .p-panels { border-color: #fab125; }
+  #panels { background-color: #fab125 !important; color: #111111; }
+  #panels a { color: #111111; }
+  #panels .sectiondivider { color: #fab125; }
 
   
   
