@@ -9,4 +9,6 @@ fa-icon: ticket-alt
 
 <i class="fa fa-globe-americas fa-stack-2x"></i>
 <br/>
-## Registation will open soon
+## Registration is now open
+
+[Register for DPDD 2021 here](https://www.eventbrite.com/e/data-platform-discovery-day-2021-tickets-165721995951)
